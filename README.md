@@ -11,3 +11,4 @@
 * La funcion doLogin tiene una funcion loginHandler que obtiene la informacion de usuario y hace reRender.
 
 > DEMO []()
+![Facebook Logino](assets/img/capture.png)
